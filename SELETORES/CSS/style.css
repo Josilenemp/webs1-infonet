@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    color: blue;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+span.highlight {
+    font-weight: bold;
+}
+
+#alert-box {
+    background-color: orange;
+    padding: 10px;
+    border-radius: 0.5rem;
+}
+
+p span {
+    background-color: green;
+    color: #fff;  
+
+}
